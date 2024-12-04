@@ -43,7 +43,6 @@ _Combining InceptionV3 and Transformer layers to generate captions._
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Othdu&show_icons=true&theme=radical" alt="GitHub Stats" height="160px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Othdu&layout=compact&theme=radical" alt="Top Languages" height="160px">
 </p>
 
@@ -58,7 +57,6 @@ _Combining InceptionV3 and Transformer layers to generate captions._
 
 ## 📫 Let's Connect  
 - **Email**: [moh.mus2019@gmail.com](mailto:moh.mus2019@gmail.com)  
-- **GitHub**: [github.com/Othdu](https://github.com/Othdu)  
 
 ---
 
