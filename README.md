@@ -14,7 +14,7 @@ _Optimizing farming with AI and data-driven insights._
 - **Profile Management**: Personalized settings and activity tracking.  
 🔗 **[Explore the project](https://github.com/Othdu/thimar)**  
 
-### **Ambulance Detection using MobileNetV3**  
+### **Driver Drowsinessd detection using MobileNetV3**  
 _A real-time traffic management system to clear the path for ambulances._  
 - Leveraged **MobileNetV3** for efficiency and accuracy.  
 - Achieved high-performance metrics with **data augmentation** and testing.  
