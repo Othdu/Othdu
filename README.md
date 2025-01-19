@@ -1,5 +1,5 @@
-# 👋 Hi, I'm **Othdu**  
-🌟 _Innovator | Developer | Problem Solver_
+# 👋 Hi
+
 
 Welcome to my GitHub! I am passionate about building intelligent systems, designing sleek user interfaces, and solving complex problems with modern technology. My expertise lies in AI, Flutter development, and crafting smart, data-driven solutions.
 
