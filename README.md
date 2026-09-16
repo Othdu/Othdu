@@ -192,28 +192,6 @@ Test important behavior.
 Build systems that are easy to maintain.
 ```
 
----
-
-# GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Othdu&show_icons=true&hide_border=true&count_private=true&rank_icon=github" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Othdu&layout=compact&hide_border=true" height="170"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Othdu&hide_border=true" />
-
-</div>
-
----
-
 # Let's Connect
 
 <div align="center">
